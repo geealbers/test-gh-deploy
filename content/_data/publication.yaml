@@ -48,8 +48,11 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: galbers
     type: primary
+    first_name: Greg
+    last_name: Albers
+  - id: jkeller
     first_name: Judith
     last_name: Keller
     title: Senior Curator of Photographs
