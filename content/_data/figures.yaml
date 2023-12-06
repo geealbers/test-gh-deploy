@@ -10,6 +10,16 @@ figure_list:
     caption: "*Walker Evans, profile, hand up to face*, 1937."
     credit: "Library of Congress Prints and Photographs Division"
 
+  - id: "Lange_D::36"
+    src: figures/lange.jpg
+    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
+    credit: "Library of Congress Prints and Photographs Division"
+
+  - id: "Evans.image-1937"
+    src: figures/evans.jpg
+    caption: "*Walker Evans, profile, hand up to face*, 1937."
+    credit: "Library of Congress Prints and Photographs Division"
+
   - id: "fig-1"
     label: "Figure 1"
     src: figures/evans-legionnaire.jpg
